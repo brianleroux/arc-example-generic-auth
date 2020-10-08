@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@architect/functions": "^3.13.3",
+    "@begin/data": "^1.2.3",
+    "bcryptjs": "^2.4.3"
+  }
+}
